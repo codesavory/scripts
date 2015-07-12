@@ -1,0 +1,3 @@
+[autorun]
+data_log.wite("hi")
+label=SA

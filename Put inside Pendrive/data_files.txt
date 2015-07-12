@@ -1,0 +1,20 @@
+G:\ubuntu-14.04-desktop-amd64.iso
+G:\data_calculator.bat
+G:\data_log.txt
+G:\data_files.txt
+G:\System Volume Information\IndexerVolumeGuid
+G:\How to Train Your Dragon 2\How.to.Train.Your.Dragon.2.2014.1080p.WEB-DL.AAC2.0.H264-RARBG.mkv
+G:\Using Smartphone\paper1.pdf
+G:\Using Smartphone\paper2.pdf
+G:\Using Smartphone\paper3.pdf
+G:\Using Smartphone\paper4.pdf
+G:\Using Smartphone\paper5.pdf
+G:\Using Smartphone\paper6.pdf
+G:\Using Smartphone\paper7.pdf
+G:\Using Smartphone\paper8.pdf
+G:\Resume\SA_CV_v2.pdf
+G:\Resume\SA_CV_v2(without Robotics).pdf
+G:\Resume\Updated\SA_CV_v3.pdf
+G:\Resume\Updated\SA_CV_v3(without Robotics).pdf
+G:\VMware Workstation 11\keys.txt
+G:\VMware Workstation 11\VMware-workstation-full-11.1.2-2780323.exe
